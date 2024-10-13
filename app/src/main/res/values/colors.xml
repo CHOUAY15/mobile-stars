@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="real_madrid_blue">#00529F</color>
+
+
+    <color name="background_color">#F5F5F5</color>
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#757575</color>
+    <color name="value_color">#4CAF50</color>
+    <color name="rating_color">#FFC107</color>
+    <color name="player_number_background">#80000000</color>
+</resources>
